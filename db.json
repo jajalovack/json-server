@@ -4,6 +4,21 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
+    },
+    {
+      "title": "vsalfafara",
+      "author": "test@test.test",
+      "id": 2
+    },
+    {
+      "title": "vsalfafara",
+      "author": "test@test.test",
+      "id": 3
+    },
+    {
+      "username": "vsalfafara",
+      "email": "test@test.test",
+      "id": 4
     }
   ],
   "comments": [
