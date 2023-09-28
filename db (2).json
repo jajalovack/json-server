@@ -1,14 +1,4 @@
 {
-  "users": [
-    {
-      "email": "dvtejuco@gmail.com",
-      "password": "$2a$10$TFzlTRy7TFTF9vGWNXc.VeQaEL7xCwJX37PpKZWuHkhVcJIAUkDYe",
-      "firstName": "Daniele",
-      "lastName": "Tejuco",
-      "username": "jajalovack",
-      "id": 1
-    }
-  ],
   "hotels": [
     {
       "id": 1,
@@ -30,8 +20,7 @@
       ],
       "bookingType": "Long-term, Transient",
       "rating": 9.2,
-      "description": "This luxurious accommodation in Makati (Main) offers a single bed with a private bathroom. Enjoy stunning city skyline views from the deck, take a dip in the infinity pool, pamper yourself at the spa, and savor fine dining at the on-site restaurant.",
-      "isBooked": true
+      "description": "This luxurious accommodation in Makati (Main) offers a single bed with a private bathroom. Enjoy stunning city skyline views from the deck, take a dip in the infinity pool, pamper yourself at the spa, and savor fine dining at the on-site restaurant."
     },
     {
       "id": 2,
@@ -54,8 +43,7 @@
       ],
       "bookingType": "Transient",
       "rating": 8.9,
-      "description": "This cozy studio apartment in Manila is perfect for short stays. It features a swimming pool, a well-equipped gym, a cafeteria, and free Wi-Fi, making it an ideal choice for travelers.",
-      "isBooked": true
+      "description": "This cozy studio apartment in Manila is perfect for short stays. It features a swimming pool, a well-equipped gym, a cafeteria, and free Wi-Fi, making it an ideal choice for travelers."
     },
     {
       "id": 3,
@@ -76,8 +64,7 @@
       ],
       "bookingType": "Long-term",
       "rating": 9.5,
-      "description": "Experience luxury at its best in this Antipolo suite with breathtaking ocean views. Enjoy private beach access, indulge in spa treatments, dine at the five-star restaurant, and receive top-notch concierge service.",
-      "isBooked": false
+      "description": "Experience luxury at its best in this Antipolo suite with breathtaking ocean views. Enjoy private beach access, indulge in spa treatments, dine at the five-star restaurant, and receive top-notch concierge service."
     },
     {
       "id": 4,
@@ -100,8 +87,7 @@
       ],
       "bookingType": "Transient",
       "rating": 9.1,
-      "description": "Escape to paradise in this Puerto Princesa villa by the beach. Relax by your private pool, enjoy drinks at the beachfront bar, soak up the sun on the sundeck, and unwind with in-room spa services.",
-      "isBooked": true
+      "description": "Escape to paradise in this Puerto Princesa villa by the beach. Relax by your private pool, enjoy drinks at the beachfront bar, soak up the sun on the sundeck, and unwind with in-room spa services."
     },
     {
       "id": 5,
@@ -123,8 +109,7 @@
       ],
       "bookingType": "Long-term, Transient",
       "rating": 8.7,
-      "description": "Embrace the beauty of nature in this mountain view cabin in Makati (Main). Explore nearby hiking trails, gather around the campfire, take in scenic vistas, and bring your furry friend along as it's pet-friendly.",
-      "isBooked": false
+      "description": "Embrace the beauty of nature in this mountain view cabin in Makati (Main). Explore nearby hiking trails, gather around the campfire, take in scenic vistas, and bring your furry friend along as it's pet-friendly."
     },
     {
       "id": 6,
@@ -146,8 +131,7 @@
       ],
       "bookingType": "Long-term, Transient",
       "rating": 8.8,
-      "description": "Enjoy the hustle and bustle of Manila from this city view apartment. Take in panoramic views from the rooftop terrace, stay fit in the on-site fitness center, dine at the restaurant, and have peace of mind with free parking.",
-      "isBooked": true
+      "description": "Enjoy the hustle and bustle of Manila from this city view apartment. Take in panoramic views from the rooftop terrace, stay fit in the on-site fitness center, dine at the restaurant, and have peace of mind with free parking."
     },
     {
       "id": 7,
@@ -169,8 +153,7 @@
       ],
       "bookingType": "Long-term",
       "rating": 9.4,
-      "description": "Immerse yourself in the coastal charm of Antipolo with this beachfront bungalow. Enjoy a private beach, dine with oceanfront views, pamper yourself with spa treatments, and sip cocktails at the beach bar.",
-      "isBooked": false
+      "description": "Immerse yourself in the coastal charm of Antipolo with this beachfront bungalow. Enjoy a private beach, dine with oceanfront views, pamper yourself with spa treatments, and sip cocktails at the beach bar."
     },
     {
       "id": 8,
@@ -191,9 +174,8 @@
         "https://img.trackhs.com/x1080/https://track-pm.s3.amazonaws.com/bluewater/image/78f41aa6-c5d9-454a-8ded-c7792e3c812a"
       ],
       "bookingType": "Transient",
-      "rating": 9,
-      "description": "Unwind in this seaside cottage in Puerto Princesa. Explore the coastline from your private pier, relax in hammocks, go kayaking, and savor a cup of coffee at the on-site café.",
-      "isBooked": false
+      "rating": 9.0,
+      "description": "Unwind in this seaside cottage in Puerto Princesa. Explore the coastline from your private pier, relax in hammocks, go kayaking, and savor a cup of coffee at the on-site café."
     },
     {
       "id": 9,
@@ -215,8 +197,7 @@
       ],
       "bookingType": "Long-term, Transient",
       "rating": 8.6,
-      "description": "Find serenity in this rustic cabin retreat in Makati (Main). Cozy up by the fireplace, explore nearby nature trails, host BBQs in the designated area, and relish the peaceful atmosphere.",
-      "isBooked": false
+      "description": "Find serenity in this rustic cabin retreat in Makati (Main). Cozy up by the fireplace, explore nearby nature trails, host BBQs in the designated area, and relish the peaceful atmosphere."
     },
     {
       "id": 10,
@@ -238,8 +219,7 @@
       ],
       "bookingType": "Long-term",
       "rating": 8.9,
-      "description": "Experience modern living in this urban loft apartment in Manila. Enjoy city views, a contemporary design, a dedicated workspace, and the convenience of an on-site café.",
-      "isBooked": false
+      "description": "Experience modern living in this urban loft apartment in Manila. Enjoy city views, a contemporary design, a dedicated workspace, and the convenience of an on-site café."
     },
     {
       "id": 11,
@@ -263,8 +243,7 @@
       ],
       "bookingType": "Long-term",
       "rating": 9.6,
-      "description": "Step into a tropical paradise with this Antipolo villa. Enjoy a private pool, direct beach access, an outdoor kitchen, and the convenience of concierge services.",
-      "isBooked": false
+      "description": "Step into a tropical paradise with this Antipolo villa. Enjoy a private pool, direct beach access, an outdoor kitchen, and the convenience of concierge services."
     },
     {
       "id": 12,
@@ -287,8 +266,7 @@
       ],
       "bookingType": "Transient",
       "rating": 9.2,
-      "description": "Escape to an island retreat in Puerto Princesa. Relax on the secluded beach, sway in hammocks, explore nature trails, and dine with beachfront views.",
-      "isBooked": false
+      "description": "Escape to an island retreat in Puerto Princesa. Relax on the secluded beach, sway in hammocks, explore nature trails, and dine with beachfront views."
     },
     {
       "id": 13,
@@ -311,8 +289,7 @@
       ],
       "bookingType": "Long-term, Transient",
       "rating": 8.7,
-      "description": "Embrace the mountain lifestyle with this chalet in Makati (Main). Enjoy skiing, cozy up by the fireplace, soak in mountain views, and unwind in the hot tub.",
-      "isBooked": false
+      "description": "Embrace the mountain lifestyle with this chalet in Makati (Main). Enjoy skiing, cozy up by the fireplace, soak in mountain views, and unwind in the hot tub."
     },
     {
       "id": 14,
@@ -336,8 +313,7 @@
       ],
       "bookingType": "Long-term, Transient",
       "rating": 8.8,
-      "description": "Elevate your stay with this city center penthouse in Manila. Take a dip in the rooftop pool, stay active in the fitness center, relax in the sky lounge, and enjoy valet parking.",
-      "isBooked": false
+      "description": "Elevate your stay with this city center penthouse in Manila. Take a dip in the rooftop pool, stay active in the fitness center, relax in the sky lounge, and enjoy valet parking."
     },
     {
       "id": 15,
@@ -359,8 +335,7 @@
       ],
       "bookingType": "Long-term",
       "rating": 9.3,
-      "description": "Experience beachside bliss in this Antipolo villa. Enjoy a private beach, lounge by the oceanfront pool, indulge in spa services, and savor cocktails at the beach bar.",
-      "isBooked": false
+      "description": "Experience beachside bliss in this Antipolo villa. Enjoy a private beach, lounge by the oceanfront pool, indulge in spa services, and savor cocktails at the beach bar."
     },
     {
       "id": 16,
@@ -382,8 +357,7 @@
       ],
       "bookingType": "Transient",
       "rating": 8.9,
-      "description": "Embrace nature in this treehouse retreat in Puerto Princesa. Explore the canopy walkway, go bird watching, relax in hammocks, and wander along nature trails.",
-      "isBooked": false
+      "description": "Embrace nature in this treehouse retreat in Puerto Princesa. Explore the canopy walkway, go bird watching, relax in hammocks, and wander along nature trails."
     },
     {
       "id": 17,
@@ -405,8 +379,7 @@
       ],
       "bookingType": "Long-term, Transient",
       "rating": 8.6,
-      "description": "Find tranquility in this hillside cabin in Makati (Main). Admire panoramic views, gather around the fire pit, explore hiking trails, and enjoy the serene atmosphere.",
-      "isBooked": false
+      "description": "Find tranquility in this hillside cabin in Makati (Main). Admire panoramic views, gather around the fire pit, explore hiking trails, and enjoy the serene atmosphere."
     },
     {
       "id": 18,
@@ -428,8 +401,7 @@
       ],
       "bookingType": "Long-term",
       "rating": 8.7,
-      "description": "Embrace city life in this downtown studio in Manila. Enjoy city views, stay fit in the fitness center, unwind at the café, and stay connected with free Wi-Fi.",
-      "isBooked": false
+      "description": "Embrace city life in this downtown studio in Manila. Enjoy city views, stay fit in the fitness center, unwind at the café, and stay connected with free Wi-Fi."
     }
-  ]
+  ]  
 }

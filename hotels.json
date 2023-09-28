@@ -1,0 +1,346 @@
+{
+  "hotels": [
+    {
+      "name": "Manila Bayview Hotel",
+      "brand": "Luxury Retreats",
+      "location": {
+        "city": "Manila",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "zip": "1000"
+      },
+      "price_per_night": "$150",
+      "amenities": [
+        "Ocean View Rooms",
+        "Infinity Pool",
+        "Spa & Wellness Center",
+        "Fine Dining Restaurant"
+      ],
+      "overall_rating": 9.2
+    },
+    {
+      "name": "Cebu Paradise Resort",
+      "brand": "Tropical Escapes",
+      "location": {
+        "city": "Cebu City",
+        "province": "Cebu",
+        "country": "Philippines",
+        "zip": "6000"
+      },
+      "price_per_night": "$180",
+      "amenities": [
+        "Private Beach",
+        "Water Sports",
+        "Poolside Bar",
+        "Outdoor Jacuzzi"
+      ],
+      "overall_rating": 8.8
+    },
+    {
+      "name": "Palawan Eco Lodge",
+      "brand": "Nature Haven",
+      "location": {
+        "city": "Puerto Princesa",
+        "province": "Palawan",
+        "country": "Philippines",
+        "zip": "5300"
+      },
+      "price_per_night": "$120",
+      "amenities": [
+        "Rainforest Tours",
+        "Bamboo Cabins",
+        "Organic Farm-to-Table Dining",
+        "Nature Trails"
+      ],
+      "overall_rating": 9.0
+    },
+    {
+      "name": "Boracay Sands Resort",
+      "brand": "Beach Getaways",
+      "location": {
+        "city": "Boracay",
+        "province": "Aklan",
+        "country": "Philippines",
+        "zip": "5608"
+      },
+      "price_per_night": "$200",
+      "amenities": [
+        "Beachfront Access",
+        "Water Sports",
+        "Poolside Bar",
+        "Spa & Massage"
+      ],
+      "overall_rating": 8.9
+    },
+    {
+      "name": "Baguio Mountain Lodge",
+      "brand": "Scenic Retreats",
+      "location": {
+        "city": "Baguio",
+        "province": "Benguet",
+        "country": "Philippines",
+        "zip": "2600"
+      },
+      "price_per_night": "$110",
+      "amenities": [
+        "Mountain Views",
+        "Fireplace Suites",
+        "Gourmet Dining",
+        "Hiking Trails"
+      ],
+      "overall_rating": 9.1
+    },
+    {
+      "name": "Bohol Beachfront Villas",
+      "brand": "Island Escapes",
+      "location": {
+        "city": "Panglao",
+        "province": "Bohol",
+        "country": "Philippines",
+        "zip": "6340"
+      },
+      "price_per_night": "$220",
+      "amenities": [
+        "Private Villas",
+        "Beachfront Access",
+        "Spa & Massage",
+        "Water Sports"
+      ],
+      "overall_rating": 9.3
+    },
+    {
+      "name": "Davao City Oasis",
+      "brand": "Urban Retreats",
+      "location": {
+        "city": "Davao City",
+        "province": "Davao del Sur",
+        "country": "Philippines",
+        "zip": "8000"
+      },
+      "price_per_night": "$130",
+      "amenities": [
+        "City View Rooms",
+        "Rooftop Pool",
+        "Fitness Center",
+        "On-Site Dining"
+      ],
+      "overall_rating": 8.7
+    },
+    {
+      "name": "Coron Island Resort",
+      "brand": "Tropical Getaways",
+      "location": {
+        "city": "Coron",
+        "province": "Palawan",
+        "country": "Philippines",
+        "zip": "5316"
+      },
+      "price_per_night": "$190",
+      "amenities": [
+        "Island Bungalows",
+        "Snorkeling",
+        "Beachfront Dining",
+        "Spa & Wellness Center"
+      ],
+      "overall_rating": 9.0
+    },
+    {
+      "name": "Cagayan de Oro Suites",
+      "brand": "City Comfort",
+      "location": {
+        "city": "Cagayan de Oro",
+        "province": "Misamis Oriental",
+        "country": "Philippines",
+        "zip": "9000"
+      },
+      "price_per_night": "$100",
+      "amenities": [
+        "Central Location",
+        "Business Center",
+        "On-Site Dining",
+        "Wi-Fi Access"
+      ],
+      "overall_rating": 8.5
+    },
+    {
+      "name": "Iloilo Waterfront Hotel",
+      "brand": "Riverside Retreats",
+      "location": {
+        "city": "Iloilo City",
+        "province": "Iloilo",
+        "country": "Philippines",
+        "zip": "5000"
+      },
+      "price_per_night": "$160",
+      "amenities": [
+        "River View Rooms",
+        "Pool & Lounge",
+        "Restaurant",
+        "Fitness Center"
+      ],
+      "overall_rating": 8.9
+    },
+    {
+      "name": "Zamboanga Beach Resort",
+      "brand": "Beachfront Bliss",
+      "location": {
+        "city": "Zamboanga City",
+        "province": "Zamboanga del Sur",
+        "country": "Philippines",
+        "zip": "7000"
+      },
+      "price_per_night": "$170",
+      "amenities": [
+        "Beachfront Villas",
+        "Water Activities",
+        "Beach Bar",
+        "Spa & Massage"
+      ],
+      "overall_rating": 8.8
+    },
+    {
+      "name": "Angeles City Inn",
+      "brand": "Budget Stays",
+      "location": {
+        "city": "Angeles City",
+        "province": "Pampanga",
+        "country": "Philippines",
+        "zip": "2009"
+      },
+      "price_per_night": "$80",
+      "amenities": [
+        "Affordable Rates",
+        "Central Location",
+        "Wi-Fi Access",
+        "24/7 Reception"
+      ],
+      "overall_rating": 7.5
+    },
+    {
+      "name": "Tagaytay Highlands Resort",
+      "brand": "Mountain Retreats",
+      "location": {
+        "city": "Tagaytay",
+        "province": "Cavite",
+        "country": "Philippines",
+        "zip": "4120"
+      },
+      "price_per_night": "$250",
+      "amenities": [
+        "Mountain Views",
+        "Golf Course",
+        "Fine Dining",
+        "Spa & Wellness Center"
+      ],
+      "overall_rating": 9.4
+    },
+    {
+      "name": "Subic Bay Waterfront Hotel",
+      "brand": "Bayfront Escapes",
+      "location": {
+        "city": "Subic",
+        "province": "Zambales",
+        "country": "Philippines",
+        "zip": "2222"
+      },
+      "price_per_night": "$140",
+      "amenities": [
+        "Bay View Rooms",
+        "Waterfront Dining",
+        "Pool & Lounge",
+        "Water Sports"
+      ],
+      "overall_rating": 8.7
+    },
+    {
+      "name": "Quezon City Suites",
+      "brand": "City Comfort",
+      "location": {
+        "city": "Quezon City",
+        "province": "Metro Manila",
+        "country": "Philippines",
+        "zip": "1109"
+      },
+      "price_per_night": "$110",
+      "amenities": [
+        "Central Location",
+        "Business Center",
+        "On-Site Dining",
+        "Wi-Fi Access"
+      ],
+      "overall_rating": 8.6
+    },
+    {
+      "name": "Antipolo Hillside Retreat",
+      "brand": "Nature Getaways",
+      "location": {
+        "city": "Antipolo",
+        "province": "Rizal",
+        "country": "Philippines",
+        "zip": "1870"
+      },
+      "price_per_night": "$120",
+      "amenities": [
+        "Hillside Cabins",
+        "Nature Trails",
+        "Outdoor Dining",
+        "Scenic Views"
+      ],
+      "overall_rating": 8.9
+    },
+    {
+      "name": "Tacloban Coastal Resort",
+      "brand": "Beachfront Bliss",
+      "location": {
+        "city": "Tacloban City",
+        "province": "Leyte",
+        "country": "Philippines",
+        "zip": "6500"
+      },
+      "price_per_night": "$190",
+      "amenities": [
+        "Beachfront Villas",
+        "Water Activities",
+        "Beach Bar",
+        "Spa & Massage"
+      ],
+      "overall_rating": 8.8
+    },
+    {
+      "name": "Batangas Lakeside Lodge",
+      "brand": "Lakeside Retreats",
+      "location": {
+        "city": "Batangas City",
+        "province": "Batangas",
+        "country": "Philippines",
+        "zip": "4200"
+      },
+      "price_per_night": "$130",
+      "amenities": [
+        "Lakeside Cabins",
+        "Boating & Fishing",
+        "Lakeside Dining",
+        "Nature Walks"
+      ],
+      "overall_rating": 8.7
+    },
+    {
+      "name": "Laoag City Heritage Hotel",
+      "brand": "Historic Stays",
+      "location": {
+        "city": "Laoag City",
+        "province": "Ilocos Norte",
+        "country": "Philippines",
+        "zip": "2900"
+      },
+      "price_per_night": "$140",
+      "amenities": [
+        "Historic Building",
+        "Courtyard Gardens",
+        "Local Cuisine",
+        "Tours"
+      ],
+      "overall_rating": 8.9
+    }
+  ]
+}

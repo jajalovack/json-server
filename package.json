@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "serve": "json-server --watch db.json"
+    "serve": "json-server db.json --routes routes.json"
   },
   "keywords": [],
   "author": "",
